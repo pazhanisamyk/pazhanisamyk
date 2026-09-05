@@ -62,14 +62,15 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Highlights
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Pazhanisamy%20K&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://img.shields.io/github/followers/pazhanisamyk?label=Followers&style=for-the-badge&color=238636" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Contributor-blue?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributing-orange?style=for-the-badge" alt="Open Source"/>
+  <img src="https://komarev.com/ghpvc/?username=pazhanisamyk&label=Profile%20Views&style=for-the-badge&color=0A66C2" alt="Profile Views"/>
 </div>
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pazhanisamyk&label=Profile%20Views&style=flat-square&color=0A66C2"/>
+<div align="center">  
   <p><em>Open to senior full-stack roles, mobile development contracts, and architectural consulting.</em></p>
 </div>
