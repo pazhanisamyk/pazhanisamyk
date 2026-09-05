@@ -64,11 +64,9 @@
 
 ### 📊 GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pazhanisamyk/pazhanisamyk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pazhanisamyk/pazhanisamyk/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pazhanisamyk/pazhanisamyk/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Pazhanisamy%20K&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
 ---
 
 <div align="center">
