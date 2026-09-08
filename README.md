@@ -225,16 +225,6 @@ Interactive platform featuring gesture-based video feeds, contest polling, socia
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=pazhanisamyk&theme=tokyo-night&hide_border=true"
-/>
-
-</div>
-
 ---
 
 # 🐍 Contribution Activity
@@ -244,8 +234,6 @@ Interactive platform featuring gesture-based video feeds, contest polling, socia
 <img src="https://raw.githubusercontent.com/pazhanisamyk/pazhanisamyk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow. See the setup section below.
 
 ---
 
