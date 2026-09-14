@@ -45,7 +45,7 @@ Building scalable web platforms, high-performance mobile applications, and relia
 
 <div align="center">
 
-<a href="YOUR_VIDEO_URL">
+<a href="https://github.com/pazhanisamyk/pazhanisamyk/blob/main/more_details_are_missing.mp4">
 
 <img src="YOUR_VIDEO_THUMBNAIL_OR_GIF_URL" width="850"/>
 
