@@ -1,25 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Pazhanisamy K
-
-### Senior Full-Stack & Mobile Engineer
-
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Creating+High-Performance+Mobile+Apps;Turning+Ideas+Into+Production+Systems;React+%7C+Next.js+%7C+Node.js+%7C+React+Native"
+  src="./profile-banner.png"
+  alt="Pazhanisamy K - Full Stack Developer Profile"
+  width="100%"
 />
 
-<br/>
+</div>
 
-<p>
-  <strong>4+ Years of Experience in Full-Stack & Mobile Development</strong>
-</p>
-
-<p>
-Building scalable web platforms, high-performance mobile applications,
-and reliable backend systems.
-</p>
-
-<br/>
+<div align="center">
 
 <a href="https://devpazhani.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -36,20 +25,6 @@ and reliable backend systems.
 <a href="https://github.com/pazhanisamyk">
   <img src="https://img.shields.io/github/followers/pazhanisamyk?label=Follow&style=for-the-badge&color=181717"/>
 </a>
-
-</div>
-
----
-
-## 🎬 Developer Introduction
-
-<div align="center">
-
-<img
-  src="./profile-banner.png"
-  alt="Pazhanisamy K - Full Stack Developer Profile"
-  width="100%"
-/>
 
 </div>
 
