@@ -46,7 +46,7 @@ and reliable backend systems.
 <div align="center">
 
 <img
-  src="./assets/profile-banner.png"
+  src="./profile-banner.png"
   alt="Pazhanisamy K - Full Stack Developer Profile"
   width="100%"
 />
