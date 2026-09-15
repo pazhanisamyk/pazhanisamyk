@@ -33,42 +33,33 @@
 # 🧑‍💻 About Me
 
 ```ts
-const pazhanisamy = {
+const engineer = {
+  name: "Pazhanisamy K",
   role: "Senior Full-Stack & Mobile Engineer",
-  experience: "4+ Years",
+  experience: "4+ years",
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
+  expertise: [
+    "Full-Stack Development",
+    "Cross-Platform Mobile Engineering",
+    "API Architecture",
+    "Performance Optimization",
+    "Database Design",
+    "Scalable System Design",
   ],
 
-  mobile: [
-    "React Native",
-    "Ionic",
-    "Android"
-  ],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    mobile: ["React Native", "Ionic", "Android"],
+    backend: ["Node.js", "Express", "Python", "Flask"],
+    database: ["MongoDB", "MySQL", "Supabase"],
+  },
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "Python",
-    "Flask"
-  ],
-
-  databases: [
-    "MongoDB",
-    "MySQL",
-    "Supabase"
-  ],
-
-  currentlyExploring: [
+  exploring: [
     "AI Agent Workflows",
     "Electron.js",
     "Cube.js",
-    "System Design"
+    "System Design",
   ],
 
-  motto: "Build it simple. Scale it smart."
+  philosophy: "Build simple. Scale smart. Ship reliably.",
 };
